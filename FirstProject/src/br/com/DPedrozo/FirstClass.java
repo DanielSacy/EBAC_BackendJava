@@ -2,6 +2,6 @@ package br.com.DPedrozo;
 
 public class FirstClass {
     public static void main(String[] args) {
-        System.out.print("Hello Ebac");
+        System.out.print("Hello, Daniel Pedrozo");
     }
 }
