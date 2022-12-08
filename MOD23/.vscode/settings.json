@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "UnitTesting/src",
+        "TASK_MOD23/main",
+        "TASK_MOD23"
+    ]
+}
