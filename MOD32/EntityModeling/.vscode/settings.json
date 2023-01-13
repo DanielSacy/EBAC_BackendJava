@@ -1,0 +1,24 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\required\\antlr-2.7.7.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\required\\classmate-1.3.0.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\required\\dom4j-1.6.1.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\required\\hibernate-commons-annotations-5.0.1.Final.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\required\\hibernate-core-5.2.11.Final.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\required\\javassist-3.20.0-GA.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\required\\jboss-logging-3.3.0.Final.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\required\\lucene-core-5.5.4.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\required\\lucene-queryparser-5.5.4.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\required\\xml-apis-1.3.03.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\provided\\hibernate-jpa-2.1-api-1.0.0.Final.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\provided\\jboss-annotations-api_1.2_spec-1.0.0.Final.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\provided\\jboss-jms-api_2.0_spec-1.0.0.Final.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\lib\\provided\\jboss-transaction-api_1.2_spec-1.0.0.Final.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\postgresql-42.5.1.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\hibernate-search-engine-5.8.0.Final.jar",
+        "d:\\DAY2DAY\\BackEndJava_EBAC\\jar\\hibernate-search-5.8.0.Final\\dist\\hibernate-search-orm-5.8.0.Final.jar"
+    ]
+}
